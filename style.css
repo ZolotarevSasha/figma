@@ -1,0 +1,183 @@
+
+.nav{
+    position: absolute;
+    width: 1400px;
+    height: 78px;
+    left: 0px;
+    top: 20px;
+    margin-top: 25px;
+    
+}
+
+.prod{
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    padding-right: 15px;
+    
+}
+
+.cust{
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    padding-right: 15px;
+    
+}
+
+.pr{
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    padding-right: 15px;
+    
+}
+
+.res{
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    padding-right: 15px;
+    
+}
+
+.img{
+    padding-left: 144px;
+    height: 31.97px;
+    width: 185.34px;
+    margin-top: 10px;
+}
+
+.menu{
+    position: absolute;
+    height: 28px;
+    left: 46.43%;
+    right: 28.57%;
+    top: calc(50% - 28px/2 - 1px);
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    color: #2F281E;
+    
+}
+
+.in{
+    font-family:;
+    position: absolute;
+    left: 73.5%;
+    right: 19.21%;
+    top: 19.23%;
+    bottom: 21.79%;
+    background-color: white;
+    height: 46px;
+    width: 102px;
+    font-weight: 700;
+    border: 1px solid #BCD0E5;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.up{
+    position: absolute;
+    left: 81.79%;
+    right: 10.36%;
+    top: 19.23%;
+    bottom: 21.79%;
+    background: #FF9900;
+    border-radius: 4px;
+    border: 0px;
+    height: 46;
+    width: 110px;
+    color: white;
+    
+}
+
+.textIn{
+    color: black
+}
+
+.textUp{
+    color: white;
+}
+
+.head{
+    width: 1154px;
+    height: 496px;
+}
+.h1{
+    position: absolute;
+    width: 518px;
+    height: 108px;
+    left: 117px;
+    top: 212px;
+    font-style: normal;
+    font-size: 44px;
+    line-height: 54px;
+    color: #544837;
+    font-weight: 700;
+    font-family: ;
+}
+.textH{
+    position: absolute;
+    width: 458px;
+    height: 95px;
+    margin-left: 117px;
+    margin-top: 350px;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    color: ##544837;
+    font-style: normal;
+    font-weight: normal;
+    
+}
+.get{
+    border: 0px;
+    position: absolute;
+    width: 175px;
+    height: 53px;
+    left: 145px;
+    top: 489px;
+    background-color: orange;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+}
+.watch{
+    position: absolute;
+    width: 135px;
+    height: 24px;
+    left: 350px;
+    top: 504px;
+    color: orange;
+    border: 0px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration-line: underline;
+    background-color: white;
+}
+
+.play{
+    position: absolute;
+    margin-left: 315px;
+    margin-top: 506px;
+    width: 20px;
+    height: 17px;
+    top: 1.5px;
+    left: 17.5px;
+}
+
+.imgPeople{
+    position: absolute;
+    width: 467px;
+    height: 438px;
+    left: 786px;
+    top: 157px;
+}
